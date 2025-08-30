@@ -1,0 +1,15 @@
+{
+  "name": "repo-finder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "vite": "^7.1.2"
+  }
+}
